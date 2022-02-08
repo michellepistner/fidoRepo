@@ -6,18 +6,3 @@ Suggests: git2r, knitr, rmarkdown
 License: GPL (>= 2)
 MD5sum: 2e7107c8bc567c3e7d1aedbd7aaeb396
 NeedsCompilation: no
-
-Package: driver
-Version: 0.1.1
-Imports: dplyr, tidyr, purrr, rlang, plyr
-Suggests: testthat, abind, philr, knitr
-License: GPL-3
-MD5sum: 06e87ac8595d9a12d0a2815eb045dcf0
-NeedsCompilation: no
-
-Package: MicrobeDS
-Version: 0.1.0
-Depends: R (>= 2.10)
-License: CC0
-MD5sum: fd4932b13ee1f30890bf02a06721f74d
-NeedsCompilation: no
